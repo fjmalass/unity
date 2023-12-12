@@ -14,3 +14,9 @@
     a. Copy `nsp` to device using `Target Manager`
     b. Run to update controllers
 
+ 
+ ## Target Manager 2
+ * `C:\Program Files\Nintendo\NintendoTargetManager2\NintendoTargetManager2.exe`
+ * `C:\Program Files\Nintendo\NintendoSdkDaemon\NintendoSdkDaemon.exe`
+
+
