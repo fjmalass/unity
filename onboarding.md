@@ -1,5 +1,7 @@
 # Sunblink - Onboarding Unity
 
+## License
+Copy files in `License` folder in `<NINTENDO_SDK_ROOT>\NintendoSDC\Include\nn\account` directory
 
 
 
@@ -18,5 +20,10 @@
  ## Target Manager 2
  * `C:\Program Files\Nintendo\NintendoTargetManager2\NintendoTargetManager2.exe`
  * `C:\Program Files\Nintendo\NintendoSdkDaemon\NintendoSdkDaemon.exe`
+
+
+## Documentation 
+
+Location of Tools and files `https://developer.nintendo.com/` `NX->Features->Controlling the Development Hardware` 
 
 
