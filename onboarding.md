@@ -26,4 +26,8 @@ Copy files in `License` folder in `<NINTENDO_SDK_ROOT>\NintendoSDC\Include\nn\ac
 
 Location of Tools and files `https://developer.nintendo.com/` `NX->Features->Controlling the Development Hardware` 
 
+## Timing
+
+### `Production` FPS
+* Switch: Enable FPS screen in "DevMode (Hold "Home" button and select "Report FPS")
 
