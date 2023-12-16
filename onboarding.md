@@ -21,6 +21,8 @@ Copy files in `License` folder in `<NINTENDO_SDK_ROOT>\NintendoSDC\Include\nn\ac
  * `C:\Program Files\Nintendo\NintendoTargetManager2\NintendoTargetManager2.exe`
  * `C:\Program Files\Nintendo\NintendoSdkDaemon\NintendoSdkDaemon.exe`
 
+### Default Target Logs: 
+`<USER>\AppData\Local\Temp\Nintendo\TargetLogs`
 
 ## Documentation 
 
