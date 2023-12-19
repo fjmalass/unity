@@ -3,8 +3,6 @@
 ## License
 Copy files in `License` folder in `<NINTENDO_SDK_ROOT>\NintendoSDC\Include\nn\account` directory
 
-
-
 ## Using NNPM
  No longer using hardware
 
@@ -17,7 +15,7 @@ Copy files in `License` folder in `<NINTENDO_SDK_ROOT>\NintendoSDC\Include\nn\ac
     b. Run to update controllers
 
  
- ## Target Manager 2
+## Target Manager 2
  * `C:\Program Files\Nintendo\NintendoTargetManager2\NintendoTargetManager2.exe`
  * `C:\Program Files\Nintendo\NintendoSdkDaemon\NintendoSdkDaemon.exe`
 
@@ -28,8 +26,17 @@ Copy files in `License` folder in `<NINTENDO_SDK_ROOT>\NintendoSDC\Include\nn\ac
 
 Location of Tools and files `https://developer.nintendo.com/` `NX->Features->Controlling the Development Hardware` 
 
-## Timing
+## Timing on Switch
 
 ### `Production` FPS
 * Switch: Enable FPS screen in "DevMode (Hold "Home" button and select "Report FPS")
+
+### `Production` CPU
+* `<NintendoSDK-Version>\NintendoSDK\Tools\NintendoCpuProfiler\Nintendo CPU Profiler.exe`
+
+### `Development` GPU - Low Level Graphics Debugger (LLGD)
+* In `<NintendoSDK-Version>\LowLevelGraphicsDebugger\Llgd\LLGDHost.exe`
+
+
+
 
