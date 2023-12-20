@@ -31,8 +31,9 @@ Location of Tools and files `https://developer.nintendo.com/` `NX->Features->Con
 ### `Production` FPS
 * Switch: Enable FPS screen in "DevMode (Hold "Home" button and select "Report FPS")
 
-### `Production` CPU
+### `Production` Nintendo CPU Profile
 * `<NintendoSDK-Version>\NintendoSDK\Tools\NintendoCpuProfiler\Nintendo CPU Profiler.exe`
+* `https://developer.nintendo.com/html/online-docs/g1kr9vj6-en/Packages/SDK/NintendoSDK/Documents/Package/contents/Pages/Page_171379056.html`
 
 ### `Development` GPU - Low Level Graphics Debugger (LLGD)
 * In `<NintendoSDK-Version>\LowLevelGraphicsDebugger\Llgd\LLGDHost.exe`
