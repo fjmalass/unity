@@ -45,6 +45,7 @@ Location of Tools and files `https://developer.nintendo.com/` `NX->Features->Con
 * Options->General->Assembly:  
   - Command: `"C:\Program Files\JetBrains\JetBrains Rider 2023.3\bin\rider64.exe"`
   - Arguments: `--line $2 $1`
+* Rem: `Diff` in the `Function` is active when a previous profile has been opened 
 
 ### `Development` GPU - Low Level Graphics Debugger (LLGD)
 * In `<NintendoSDK-Version>\LowLevelGraphicsDebugger\Llgd\LLGDHost.exe`
